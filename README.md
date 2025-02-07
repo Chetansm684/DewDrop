@@ -1,4 +1,4 @@
-# Rainfall Prediction App
+# DewDrop
 
 This project is a rainfall prediction app developed using an Indian dataset. The app aims to predict rainfall based on various meteorological features.
 
